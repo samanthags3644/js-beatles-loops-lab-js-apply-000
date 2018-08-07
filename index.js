@@ -33,7 +33,7 @@ Array.push("I love the Beatles!");  // return the Array with "I love the Beatles
   }
   
   while (n < 15);                       //parameters less than15
-  console.log() Array;
+  return Array;
     }
 
 
