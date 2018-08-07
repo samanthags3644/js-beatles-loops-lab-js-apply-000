@@ -28,7 +28,7 @@ function iLoveTheBeatles(n) {
 var Array = [];
   
  do {                                       // do loop
-Array.push("I love the Beatles!");        //
+Array.push("I love the Beatles!");        // return the Array  with ""
     n++; 
   }
   
