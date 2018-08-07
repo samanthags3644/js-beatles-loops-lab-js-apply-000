@@ -24,11 +24,11 @@ function johnLennonFacts(facts) {
 
 ////////////////////////////////////////////////////////
 
-function iLoveTheBeatles(n) {
-var Array = [];
+function iLoveTheBeatles(n) {           // set (n) for the while loop
+var Array = [];                           //empty Array
   
  do {                                       // do loop
-Array.push("I love the Beatles!");        // return the Array  with ""
+Array.push("I love the Beatles!");  // return the Array with "I love the Beatles "
     n++; 
   }
   
