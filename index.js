@@ -24,18 +24,17 @@ function johnLennonFacts(facts) {
 
 ////////////////////////////////////////////////////////
 
-//function iLoveTheBeatles(n) {
-//  var Array = [];
+function iLoveTheBeatles(n) {
+var Array = [];
   
-//  do {
-//    Array.push("I love the Beatles!");
-//    n++; 
-//  }
+ do {                                       // do loop
+Array.push("I love the Beatles!");        //
+    n++; 
+  }
   
-//  while (n < 15);
-//  return Array;
-  
-//  }
+  while (n < 15);
+  return Array;
+    }
 
 
 
