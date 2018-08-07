@@ -11,16 +11,16 @@ return Array;
 
 ////////////////////////////////////////////////////////
 
-//function johnLennonFacts(facts) {
-//  varshoutedFacts = [];
-//  let i = 0;
-//  while (i < facts.lengths) {
-//    shoutedFacts.push(facts "!!!");
-//    i+++
-//  }
+function johnLennonFacts(facts) {
+  varshoutedFacts = [];
+  let i = 0;
+  while (i < facts.lengths) {
+    shoutedFacts.push(`${facts[i]} !!!`);
+    i+++ ; 
+  }
   
-//  return shoutedFacts;
-// }
+  return shoutedFacts;
+ }
 
 ////////////////////////////////////////////////////////
 
