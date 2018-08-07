@@ -12,7 +12,7 @@ return Array;
 ////////////////////////////////////////////////////////
 
 function johnLennonFacts(facts) {
-  varshoutedFacts = [];
+  shoutedFacts = [];
   let i = 0;
   while (i < facts.lengths) {
     shoutedFacts.push(`${facts[i]} !!!`);
