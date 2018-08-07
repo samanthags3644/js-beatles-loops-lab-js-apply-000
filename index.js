@@ -32,7 +32,7 @@ Array.push("I love the Beatles!");        //
     n++; 
   }
   
-  while (n < 15);
+  while (n < 15);                       //parameters less than15
   return Array;
     }
 
